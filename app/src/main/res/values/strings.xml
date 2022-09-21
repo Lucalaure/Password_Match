@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Password Match</string>
+
+    <string name="btnCheck">Check</string>
+    <string name="edtPsswrd1">Type Password</string>
+    <string name="edtPsswrd2">Re-type Password</string>
+</resources>
